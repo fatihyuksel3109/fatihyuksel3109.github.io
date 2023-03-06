@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    background-color: antiquewhite;
+}
+header {
+    text-align: center;
+    margin: 50px;
+}
+.container-fluid {
+    width: 90%;
+    border: 2px solid;
+    padding: 30px;
+    background-color: bisque;
+}
+
+h2 {
+    width: fit-content;
+    position: relative;
+    top: 0;
+    left: 110px;
+    padding: 2px;
+    background-color: crimson;
+    border: 2px solid black;
+}
+section {
+    margin: 4.16%;
+    width: 90%;
+    padding: 30px;
+    border: 2px solid brown;
+    background-color: cadetblue;
+}
